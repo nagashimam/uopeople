@@ -1,0 +1,1 @@
+  As I wrote paragraphs in this essay, I got more references to mangage. I tried BibTex to auto generate my bibliography, but the software threw errors and didn't work this time. I'll have to fix them by the next assignment or find an alternative.
